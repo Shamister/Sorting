@@ -41,7 +41,7 @@ public class Sorting {
 		// printData(data);
 		start = System.currentTimeMillis();
 		/**
-		 * JUST CHANGE THE METHOD NAME TO USE ANOTHER SORTING ALGORITM
+		 * JUST CHANGE THE METHOD NAME TO USE ANOTHER SORTING ALGORITHM
 		 */
 		timSort(data);
 		time = System.currentTimeMillis() - start;
